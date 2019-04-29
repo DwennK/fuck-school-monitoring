@@ -9,4 +9,4 @@ Stops School Monitoring by :
 
 
 ## How to use it : 
-Simply run it as an administrator
+Simply run it as an administrator. boom.
