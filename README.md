@@ -1,5 +1,7 @@
 # fuck-school-monitoring
 
+Was working in ~2019, I don't know for now. 
+
 Stops School Monitoring by : 
 
 - Closing Impero Application
