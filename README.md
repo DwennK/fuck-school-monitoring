@@ -1,5 +1,5 @@
 # fuck-school-monitoring
-
+Stop surveillance from CPLN teachers, so they cannot see you screen or watch you in any way.
 Was working in ~2019, I don't know for now. 
 
 Stops School Monitoring by : 
